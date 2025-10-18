@@ -36,3 +36,5 @@ Storage: Local (dev) or S3/Cloudinary for resumes
 AI: Embeddings + scoring (OpenAI or compatible)
 
 Job Data: Choose one provider (e.g., JSearch on RapidAPI, Remotive, Adzuna, or a custom source)
+
+PlanetScale is MySQL; Prisma supports both. Use Postgres for simplicity unless you prefer MySQL.
